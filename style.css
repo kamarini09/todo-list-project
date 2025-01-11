@@ -1,0 +1,12 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+#todo-list li {
+  margin: 5px 0;
+}
+
+.highlight {
+  background-color: yellow;
+}
